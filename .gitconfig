@@ -1,0 +1,12 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	name = Hacker0234
+	email = Malcev2011@mail.ru
+[push]
+	default = matching
+[alias]
+	co = checkout
